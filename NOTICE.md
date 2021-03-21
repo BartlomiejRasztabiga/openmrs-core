@@ -45,6 +45,12 @@
 <td>jar</td>
 <td>HAPI is dual licensed (MPL, GPL), <a class="externalLink" href="http://www.mozilla.org/MPL/MPL-1.1.txt">Mozilla Public License 1.1</a>, <a class="externalLink" href="http://www.gnu.org/licenses/gpl.txt">GNU General Public License</a></td></tr>
 <tr class="a">
+<td>ch.vorburger.mariaDB4j</td>
+<td><a class="externalLink" href="https://github.com/vorburger/MariaDB4j">mariaDB4j</a></td>
+<td>2.4.0</td>
+<td>jar</td>
+<td><a class="externalLink" href="http://www.apache.org/licenses/LICENSE-2.0.txt">The Apache Software License, Version 2.0</a></td></tr>
+<tr class="a">
 <td>com.fasterxml.jackson.core</td>
 <td><a class="externalLink" href="http://github.com/FasterXML/jackson">jackson-annotations</a></td>
 <td>2.9.0</td>
@@ -68,12 +74,6 @@
 <td>1.4.196</td>
 <td>jar</td>
 <td><a class="externalLink" href="http://h2database.com/html/license.html">MPL 2.0 or EPL 1.0</a></td></tr>
-<tr class="a">
-<td>com.mysql</td>
-<td>mysql-connector-mxj</td>
-<td>5.0.11</td>
-<td>jar</td>
-<td>-</td></tr>
 <tr class="b">
 <td>com.thoughtworks.xstream</td>
 <td><a class="externalLink" href="http://codehaus.org/xstream-parent/xstream/">xstream</a></td>
